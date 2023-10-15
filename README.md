@@ -1,6 +1,8 @@
 # springkafka
 
 Demonstrate essential functionalities of using Kafka with Spring 
+Reference : 	https://www.youtube.com/watch?v=SqVfCyfCJqw
+		https://kafka.apache.org/quickstart
 
 ### Run a producer consumer app
 
